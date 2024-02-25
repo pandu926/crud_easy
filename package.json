@@ -1,0 +1,23 @@
+{
+  "name": "crud-easy",
+  "version": "1.0.0",
+  "description": "crud for junior developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandu926/crud_easy.git"
+  },
+  "keywords": [
+    "crud",
+    "javascript"
+  ],
+  "author": "ahmad pandu subekti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandu926/crud_easy/issues"
+  },
+  "homepage": "https://github.com/pandu926/crud_easy#readme"
+}
